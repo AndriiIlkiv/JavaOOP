@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="12.0.1" class="java.beans.XMLDecoder">
+ <object class="lab4.LinkedList" id="LinkedList0">
+  <void property="head">
+   <void property="next">
+    <object class="lab4.Node">
+     <void property="data">
+      <object class="lab4.TicketBox">
+       <void property="arrTime">
+        <string>12.122</string>
+       </void>
+       <void property="depTime">
+        <string>123.421</string>
+       </void>
+       <void property="freePlace">
+        <string>123</string>
+       </void>
+       <void property="name">
+        <string>lol</string>
+       </void>
+       <void property="overPlace">
+        <string>kel12</string>
+       </void>
+       <void property="stationName">
+        <string>Kek</string>
+       </void>
+      </object>
+     </void>
+    </object>
+   </void>
+  </void>
+ </object>
+</java>
